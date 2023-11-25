@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bKashAPI_with_dotnet6", "bKashAPI_with_dotnet6.csproj", "{37061A4A-5FFA-4D79-82DE-CF0D00856289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37061A4A-5FFA-4D79-82DE-CF0D00856289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37061A4A-5FFA-4D79-82DE-CF0D00856289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37061A4A-5FFA-4D79-82DE-CF0D00856289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37061A4A-5FFA-4D79-82DE-CF0D00856289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C0D7803-16E3-4DA3-BED3-C9E78B463B4F}
+	EndGlobalSection
+EndGlobal

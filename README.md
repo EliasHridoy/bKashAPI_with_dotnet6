@@ -74,6 +74,8 @@ There is two way we can handle our payment process.
 >> Agreement Base Checkout (OTP first time and we need to store Agreement Id for rest of transaction)
 
 
+![image](https://github.com/EliasHridoy/bKash_API_dotNet/assets/37788485/a47350d7-69db-476f-8736-853fcb049dc5)
+
 ## Grant Token
 ![image](https://github.com/EliasHridoy/bKash_API_dotNet/assets/37788485/8e2f211b-7e83-4cf7-ad72-73057ab26ca5)
 

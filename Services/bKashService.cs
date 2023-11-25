@@ -11,8 +11,7 @@ namespace bKashAPI_with_dotnet6.Services
 
         public readonly string BaseURL = "https://tokenized.sandbox.bka.sh/v1.2.0-beta/tokenized/checkout/";
         public readonly string app_key = "<app_key>";
-        public readonly string app_secret = "<app_secret>";
-        
+        public readonly string app_secret = "<app_secret>";        
         public async Task<GrantTokenResponse> getGenerateTokenBkash()
         {
             try
